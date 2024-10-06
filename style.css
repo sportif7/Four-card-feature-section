@@ -210,7 +210,7 @@ footer p{
   }
 
   .headline-section{
-     max-width:365px;
+     max-width:350px;
   }
 
   h1{
@@ -218,8 +218,13 @@ footer p{
   }
 
   .headline-text{
-     max-width:365px;
+     max-width:350px;
     font-size:clamp(1.0625rem, 3vw, 1.125rem);
+  }
+
+  .card{
+    max-width:350px;
+    height:250px; 
   }
 
   .card-text{
