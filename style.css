@@ -65,7 +65,7 @@ body{
     min-height:100vh;
     display:grid;
     font-family: "Poppins";
-    padding:4rem;
+    padding:4rem 4rem 5rem;
 }
 
 h1{
