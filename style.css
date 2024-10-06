@@ -228,7 +228,7 @@ footer p{
   }
 
   .card-text{
-     font-size:clamp(1rem, 3vw, 1.0625rem);
+     font-size:clamp(0.9375rem, 3vw, 1.0625rem);
   }
   .card{
        padding:1.75rem;
